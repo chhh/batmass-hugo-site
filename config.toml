@@ -1,0 +1,8 @@
+baseurl = "http://batmass.org/"
+languageCode = "en-us"
+title = "BatMass: mass spectrometry data visualization"
+canonifyurls = true
+
+[params]
+  author = "Dmitry Avtonomov"
+  description = "BatMass is a mass spectrometry LC/MS data visualization tool"
